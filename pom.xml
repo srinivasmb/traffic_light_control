@@ -8,12 +8,12 @@
 		<version>4.0.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>com.trafficlight</groupId>
+	<artifactId>traffic-light-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>traffic-light-api</name>
+	<description>Traffic Light Controller API</description>
 	<url/>
 	<licenses>
 		<license/>

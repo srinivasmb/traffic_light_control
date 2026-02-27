@@ -1,9 +1,9 @@
-package com.example.demo.controller;
+package com.trafficlight.api.controller;
 
-import com.example.demo.domain.Direction;
-import com.example.demo.domain.LightState;
-import com.example.demo.dto.CommandRequest;
-import com.example.demo.service.TrafficControllerService;
+import com.trafficlight.api.domain.Direction;
+import com.trafficlight.api.domain.LightState;
+import com.trafficlight.api.dto.CommandRequest;
+import com.trafficlight.api.service.TrafficControllerService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

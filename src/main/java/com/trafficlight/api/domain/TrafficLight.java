@@ -1,4 +1,4 @@
-package com.example.demo.domain;
+package com.trafficlight.api.domain;
 
 public class TrafficLight {
     private final Direction direction;

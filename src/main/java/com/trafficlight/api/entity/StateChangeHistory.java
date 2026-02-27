@@ -1,7 +1,7 @@
-package com.example.demo.entity;
+package com.trafficlight.api.entity;
 
-import com.example.demo.domain.Direction;
-import com.example.demo.domain.LightState;
+import com.trafficlight.api.domain.Direction;
+import com.trafficlight.api.domain.LightState;
 import jakarta.persistence.*;
 import java.time.LocalDateTime;
 

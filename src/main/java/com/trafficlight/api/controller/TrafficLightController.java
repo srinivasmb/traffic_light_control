@@ -1,10 +1,10 @@
-package com.example.demo.controller;
+package com.trafficlight.api.controller;
 
-import com.example.demo.domain.Direction;
-import com.example.demo.domain.LightState;
-import com.example.demo.dto.CommandRequest;
-import com.example.demo.dto.HistoryResponse;
-import com.example.demo.service.TrafficControllerService;
+import com.trafficlight.api.domain.Direction;
+import com.trafficlight.api.domain.LightState;
+import com.trafficlight.api.dto.CommandRequest;
+import com.trafficlight.api.dto.HistoryResponse;
+import com.trafficlight.api.service.TrafficControllerService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

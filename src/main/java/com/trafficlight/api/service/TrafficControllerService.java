@@ -1,10 +1,10 @@
-package com.example.demo.service;
+package com.trafficlight.api.service;
 
-import com.example.demo.domain.Direction;
-import com.example.demo.domain.Intersection;
-import com.example.demo.domain.LightState;
-import com.example.demo.entity.StateChangeHistory;
-import com.example.demo.repository.StateChangeHistoryRepository;
+import com.trafficlight.api.domain.Direction;
+import com.trafficlight.api.domain.Intersection;
+import com.trafficlight.api.domain.LightState;
+import com.trafficlight.api.entity.StateChangeHistory;
+import com.trafficlight.api.repository.StateChangeHistoryRepository;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;

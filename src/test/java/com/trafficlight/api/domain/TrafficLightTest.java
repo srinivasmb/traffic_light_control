@@ -1,4 +1,4 @@
-package com.example.demo.domain;
+package com.trafficlight.api.domain;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

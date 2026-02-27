@@ -1,9 +1,9 @@
-package com.example.demo.service;
+package com.trafficlight.api.service;
 
-import com.example.demo.domain.Direction;
-import com.example.demo.domain.LightState;
-import com.example.demo.entity.StateChangeHistory;
-import com.example.demo.repository.StateChangeHistoryRepository;
+import com.trafficlight.api.domain.Direction;
+import com.trafficlight.api.domain.LightState;
+import com.trafficlight.api.entity.StateChangeHistory;
+import com.trafficlight.api.repository.StateChangeHistoryRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

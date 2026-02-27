@@ -1,4 +1,4 @@
-package com.example.demo.domain;
+package com.trafficlight.api.domain;
 
 import java.util.Collections;
 import java.util.EnumMap;

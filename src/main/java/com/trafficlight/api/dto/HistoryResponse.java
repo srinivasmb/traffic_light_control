@@ -1,7 +1,7 @@
-package com.example.demo.dto;
+package com.trafficlight.api.dto;
 
-import com.example.demo.domain.Direction;
-import com.example.demo.domain.LightState;
+import com.trafficlight.api.domain.Direction;
+import com.trafficlight.api.domain.LightState;
 
 import java.time.LocalDateTime;
 
