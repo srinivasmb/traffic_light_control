@@ -31,28 +31,6 @@
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
-<!--        <dependency>-->
-<!--            <groupId>com.azure</groupId>-->
-<!--            <artifactId>azure-communication-email</artifactId>-->
-<!--            <version>1.0.9</version>-->
-<!--        </dependency>-->
-
-<!--        <dependency>-->
-<!--            <groupId>com.azure</groupId>-->
-<!--            <artifactId>azure-identity</artifactId>-->
-<!--            <version>1.2.3</version>-->
-<!--        </dependency>-->
-<!--        <dependency>
-            <groupId>com.azure</groupId>
-            <artifactId>azure-communication-email</artifactId>
-            <version>1.0.0</version>
-        </dependency>
-
-        <dependency>
-            <groupId>com.azure</groupId>
-            <artifactId>azure-identity</artifactId>
-            <version>1.11.3</version>
-        </dependency>-->
 
         <dependency>
             <groupId>com.azure</groupId>
